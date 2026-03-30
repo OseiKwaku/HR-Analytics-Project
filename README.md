@@ -4,19 +4,19 @@
 This project presents an interactive Workforce Overview Dashboard designed to analyze employee data, focusing on headcount, attrition, compensation, and performance metrics. The goal is to provide actionable HR insights for better workforce planning and decision-making.
 
 ### Objectives
-Monitor workforce size and structure
-Analyze employee attrition trends
-Evaluate compensation distribution
-Assess employee performance and engagement
-Identify departmental workforce patterns
+- Monitor workforce size and structure
+- Analyze employee attrition trends
+- Evaluate compensation distribution
+- Assess employee performance and engagement
+- Identify departmental workforce patterns
 
 ### Dataset
 The dataset includes HR-related attributes such as:
-Employee demographics (age groups, gender)
-Departmental distribution
-Salary and compensation data
-Performance ratings
-Attrition status and tenure
+- Employee demographics (age groups, gender)
+- Departmental distribution
+- Salary and compensation data
+- Performance ratings
+- Attrition status and tenure
 
 ### Tools & Technologies
 Power BI – Data visualization & dashboard creation
